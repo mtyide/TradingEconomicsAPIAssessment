@@ -1,0 +1,62 @@
+C:\repos\MVCAssessment\bin\Debug\net6.0\appsettings.Development.json
+C:\repos\MVCAssessment\bin\Debug\net6.0\appsettings.json
+C:\repos\MVCAssessment\bin\Debug\net6.0\MVCAssessment.staticwebassets.runtime.json
+C:\repos\MVCAssessment\bin\Debug\net6.0\MVCAssessment.exe
+C:\repos\MVCAssessment\bin\Debug\net6.0\MVCAssessment.deps.json
+C:\repos\MVCAssessment\bin\Debug\net6.0\MVCAssessment.runtimeconfig.json
+C:\repos\MVCAssessment\bin\Debug\net6.0\MVCAssessment.dll
+C:\repos\MVCAssessment\bin\Debug\net6.0\MVCAssessment.pdb
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.csproj.AssemblyReference.cache
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.AssemblyInfoInputs.cache
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.AssemblyInfo.cs
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.csproj.CoreCompileInputs.cache
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.RazorAssemblyInfo.cache
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.RazorAssemblyInfo.cs
+C:\repos\MVCAssessment\obj\Debug\net6.0\staticwebassets.build.json
+C:\repos\MVCAssessment\obj\Debug\net6.0\staticwebassets.development.json
+C:\repos\MVCAssessment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\repos\MVCAssessment\obj\Debug\net6.0\scopedcss\bundle\MVCAssessment.styles.css
+C:\repos\MVCAssessment\obj\Debug\net6.0\scopedcss\projectbundle\MVCAssessment.bundle.scp.css
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.dll
+C:\repos\MVCAssessment\obj\Debug\net6.0\refint\MVCAssessment.dll
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.pdb
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.genruntimeconfig.cache
+C:\repos\MVCAssessment\obj\Debug\net6.0\ref\MVCAssessment.dll
+C:\repos\MVCAssessment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\repos\MVCAssessment\obj\Debug\net6.0\MVCAssessment.csproj.CopyComplete
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\appsettings.json
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\MVCAssessment.staticwebassets.runtime.json
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\MVCAssessment.exe
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\MVCAssessment.deps.json
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\MVCAssessment.runtimeconfig.json
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\MVCAssessment.dll
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\MVCAssessment.pdb
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.csproj.AssemblyReference.cache
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.AssemblyInfoInputs.cache
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.AssemblyInfo.cs
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.RazorAssemblyInfo.cache
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.RazorAssemblyInfo.cs
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\staticwebassets\msbuild.MVCAssessment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCAssessment.props
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCAssessment.props
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCAssessment.props
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\scopedcss\bundle\MVCAssessment.styles.css
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\scopedcss\projectbundle\MVCAssessment.bundle.scp.css
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.csproj.CopyComplete
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.dll
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\refint\MVCAssessment.dll
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.pdb
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\MVCAssessment.genruntimeconfig.cache
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\obj\Debug\net6.0\ref\MVCAssessment.dll
+C:\Users\Yandisa Mtyide\Downloads\MVCAssessment\MVCAssessment\bin\Debug\net6.0\Resources\result.json

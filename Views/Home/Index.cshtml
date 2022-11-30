@@ -1,0 +1,42 @@
+﻿@model MVCAssessment.Models.ViewModel
+
+@{
+    ViewData["Title"] = "TradingEconomics API Assessment";
+}
+
+<div class="text-center">
+    <h1>TradingEconomics: Mexico Data</h1>
+    <h2>Table Data</h2>
+    <hr />
+    <table>
+        <thead>
+            <tr>
+                <td>Category</td>
+                <td>Title</td>
+                <td>LatestValue</td>
+                <td>Frequency</td>
+                <td>LatestValueDate</td>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Result != null)
+            {
+                @foreach (var item in Model.Result)
+                {
+                    <tr>
+                        <td>@item.Category</td>
+                        <td>@item.Title</td>
+                        <td>@item.LatestValue</td>
+                        <td>@item.Frequency</td>
+                        <td>@item.LatestValueDate</td>
+                    </tr>
+                }
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="6">End of Data Report</td>
+            </tr>
+        </tfoot>
+    </table>
+</div>

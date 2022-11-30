@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r343GWDfSzqsOCFi+fnCJvm66B338RQ26KstNXGfj2rC5/uatdrnL79TOKKwKQ6tu5CjLAhtX1s5NI8Z36bGbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yandisa Mtyide\\Downloads\\MVCAssessment\\MVCAssessment\\MVCAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yandisa Mtyide\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Yandisa Mtyide\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
